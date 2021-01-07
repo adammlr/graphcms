@@ -1,5 +1,5 @@
 import './App.css';
-import SectionComponent from './SectionComponent';
+import SectionComponent from './sections/SectionComponent';
 import { useEffect, useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 
